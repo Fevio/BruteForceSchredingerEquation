@@ -7,14 +7,10 @@
 
     Teoria:
 
-    Monomio(Funzione): 
-        Struttura: lettera+funzione
-        Es: 3log(x)
-
     Funzioni:
+        Costante: una "funzione che rappresenta" numero appartenente all'insieme dei numeri complessi
+        Seno
         Potenza
-            Struttura: (Funzione base)^(funzione esponenziale)
-            Es: (x+logy) ^ (x+z)
         Logaritmo
         Seno
         Coseno
