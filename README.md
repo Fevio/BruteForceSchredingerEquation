@@ -1,7 +1,7 @@
-Forse in futuro diventera
--Un risolutore di derivate parziali
--Hartee-fock implementation
--Altro
+    Forse in futuro diventera
+        -Un risolutore di derivate parziali
+        -Hartree-fock implementation
+        -Altro
 
 
 
