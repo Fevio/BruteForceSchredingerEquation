@@ -18,3 +18,9 @@ Funzioni:
     Logaritmo
     Seno
     Coseno
+
+    Mancano
+    -Moltiplicazioni (per le derivate composte)
+    -Disegno che esplciita tutto il software logic
+
+
